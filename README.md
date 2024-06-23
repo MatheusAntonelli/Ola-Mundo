@@ -8,7 +8,7 @@ Negrito: **Este texto esta em negrito**
 Tachado: ~~Este texto esta tachado~~
 Italico: *Este texto esta em italico*
 Mix: _**Este texto esta em negrito, italico e ~~tachado~~**_
-## Header 2
+## Listas
 Listas: 
 **Numerada**
 1. Item 1
@@ -22,5 +22,11 @@ Listas:
    *   Teste
 
 **Lista de Tarefas**
+- [x] Criar Menu
+- [ ] Criar Grafico
+- [ ] Criar 3D
+
 ### Header 3
+![Foto de <a href="https://unsplash.com/pt-br/@timwhybrow?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tim Whybroe</a> na <a href="https://unsplash.com/pt-br/fotografias/casa-de-concreto-branco-ao-lado-do-farol-2ojuueC2QVU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  ](https://images.unsplash.com/photo-1543804082-5e00fcfc1e66?q=80&w=1449&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 #### Header 4

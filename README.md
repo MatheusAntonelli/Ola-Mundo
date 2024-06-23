@@ -44,4 +44,9 @@ Exemplo de codigo:
 int a,b,sum
 a = 10
 b = 20
-sum = a+b```
+sum = a+b
+```
+:persevere:
+:bomb:
+:100:
+🌋

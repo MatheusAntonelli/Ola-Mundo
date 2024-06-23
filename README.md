@@ -1,7 +1,8 @@
 # Olá,Mundo
- **Curso em Video - GIT e GitHub**Primeiro repositorio do curso
+ **Curso em Video - GIT e GitHub**  repositorio do curso
 *Atualização remota*
 Estou aprendendo linguagem **Markdown**
+Esse curso foi desenvolvido pelo professor Gustavo Guanabara, e abrange os principais conceitos e comandos de **Git** e **Github**  
 # Aula de Markdown
 
 Negrito: **Este texto esta em negrito**

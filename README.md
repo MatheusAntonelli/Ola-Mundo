@@ -30,5 +30,18 @@ Listas:
 ![Foto de <a href="https://unsplash.com/pt-br/@timwhybrow?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tim Whybroe</a> na <a href="https://unsplash.com/pt-br/fotografias/casa-de-concreto-branco-ao-lado-do-farol-2ojuueC2QVU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   ](https://images.unsplash.com/photo-1543804082-5e00fcfc1e66?q=80&w=1449&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
   [Acesse meu github](https://github.com/MatheusAntonelli)
-#### Header 4
+#### Tabelas e codigos
 
+Num | Nome | Nota
+--- | --- | ----
+1 | Matheus | 8
+2 | Gafanhoto |7
+3 | Jacare | 10
+4 | Urubu | 7
+
+Exemplo de codigo:
+```
+int a,b,sum
+a = 10
+b = 20
+sum = a+b```
